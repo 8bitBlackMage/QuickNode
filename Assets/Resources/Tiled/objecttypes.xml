@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objecttypes>
+ <objecttype name="Door" color="#00007f">
+  <property name="DestX" type="float" default="0"/>
+  <property name="DestY" type="float" default="0"/>
+  <property name="MapName" type="string"/>
+ </objecttype>
+</objecttypes>
